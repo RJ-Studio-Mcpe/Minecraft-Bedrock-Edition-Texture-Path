@@ -1,0 +1,12 @@
+{
+  "textures": [
+    {
+      "name": "Stone",
+      "path": "textures/stone.png"
+    },
+    {
+      "name": "Grass",
+      "path": "textures/grass.png"
+    }
+  ]
+}
